@@ -1,0 +1,3 @@
+[submodule "lab-i-zabbix"]
+	path = lab-i-zabbix
+	url = ""
