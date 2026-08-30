@@ -1,3 +1,51 @@
-[submodule "lab-i-zabbix"]
+[submodule "zabbix"]
 	path = lab-i-zabbix
 	url = "https://github.com/dansotirakis/lab-i-zabbix.git"
+[submodule "docker"]
+	path = lab-i-docker
+	url = "https://github.com/dansotirakis/lab-i-docker.git"
+[submodule "elasticsearch"]
+	path = lab-i-elasticsearch
+	url = "https://github.com/dansotirakis/lab-i-elasticsearch.git"
+[submodule "m3u"]
+	path = lab-i-m3u
+	url = "https://github.com/dansotirakis/lab-i-m3u.git"
+[submodule "sqs"]
+	path = lab-i-sqs
+	url = "https://github.com/dansotirakis/lab-i-sqs.git"
+[submodule "camunda"]
+	path = lab-i-camunda
+	url = "https://github.com/dansotirakis/lab-i-camunda.git"
+[submodule "grafana"]
+	path = lab-i-grafana
+	url = "https://github.com/dansotirakis/lab-i-grafana.git"
+[submodule "configuration"]
+	path = lab-i-configuration
+	url = "https://github.com/dansotirakis/lab-i-configuration.git"
+[submodule "kafka"]
+	path = lab-i-kafka
+	url = "https://github.com/dansotirakis/lab-i-kafka.git"
+[submodule "opensearch"]
+	path = lab-i-opensearch
+	url = "https://github.com/dansotirakis/lab-i-opensearch.git"
+[submodule "insomnia"]
+	path = lab-i-insomnia
+	url = "https://github.com/dansotirakis/lab-i-insomnia.git"
+[submodule "appdynamics"]
+	path = lab-i-appdynamics
+	url = "https://github.com/dansotirakis/lab-i-appdynamics.git"
+[submodule "shell"]
+	path = lab-i-shell
+	url = "https://github.com/dansotirakis/lab-i-shell.git"
+[submodule "splunk"]
+	path = lab-L-splunk
+	url = "https://github.com/dansotirakis/lab-i-splunk.git"
+[submodule "datadog"]
+	path = lab-i-dd
+	url = "https://github.com/dansotirakis/lab-i-dd.git"
+[submodule "vagrant"]
+	path = lab-i-vagrant
+	url = "https://github.com/dansotirakis/lab-i-vagrant.git"
+[submodule "jaeger"]
+	path = lab-i-jaeger
+	url = "https://github.com/dansotirakis/lab-i-jaeger.git"
