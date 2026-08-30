@@ -14,7 +14,7 @@
 	path = lab-i-sqs
 	url = "https://github.com/dansotirakis/lab-i-sqs.git"
 [submodule "camunda"]
-	path = lab-i-camunda
+	path = ../../camunda/lab-i-camunda
 	url = "https://github.com/dansotirakis/lab-i-camunda.git"
 [submodule "grafana"]
 	path = lab-i-grafana
@@ -38,7 +38,7 @@
 	path = lab-i-shell
 	url = "https://github.com/dansotirakis/lab-i-shell.git"
 [submodule "splunk"]
-	path = lab-L-splunk
+	path = lab-i-splunk
 	url = "https://github.com/dansotirakis/lab-i-splunk.git"
 [submodule "datadog"]
 	path = lab-i-dd
